@@ -3,6 +3,7 @@
 #include "functions_to_implement.h"
 #include <vector>
 
+//to test a command
 TEST_CASE( "Fibonacci numbers are computed", "[NthFibonacci]" ) {
     REQUIRE( NthFibonacci(0) == 0 );
     REQUIRE( NthFibonacci(1) == 1 );
