@@ -1,7 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <new>
-using namespace std;
 /* String functions section */
 
 // Splits a single string on separator into a vector of strings
