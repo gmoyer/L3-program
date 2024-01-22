@@ -10,7 +10,7 @@ target1: functions_to_implement.o
 target2: functions_to_implement.o
 	$(CXX) $(CXXFLAGS) test.cpp functions_to_implement.o catch.hpp -o tests
 
-functions_to_implement.o:
+functions_to_implement.o: functions_to_implement.cpp
 	$(CXX) $(CXXFLAGS) -c functions_to_implement.cpp
 
 clean:
