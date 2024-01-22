@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Griffin Moyer\\repos\\CSCI3010 - Intensive Programming Workshop\\L3-program",
+            "binaryPath": "c:\\Users\\Griffin Moyer\\repos\\CSCI3010 - Intensive Programming Workshop\\L3-program\\main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\Griffin Moyer\\repos\\CSCI3010 - Intensive Programming Workshop\\L3-program",
+            "binaryPath": "c:\\Users\\Griffin Moyer\\repos\\CSCI3010 - Intensive Programming Workshop\\L3-program\\tests",
+            "binaryArgs": []
+        }
+    ]
+}
