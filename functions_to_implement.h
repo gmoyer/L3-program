@@ -3,7 +3,7 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
-long long NthFibonacci(long long n);
+int NthFibonacci(int n);
 
 double Sum(std::vector<double> nums);
 
